@@ -34,3 +34,5 @@ alias screen='TERM=xterm-256color screen'
 
 alias dentalzon='cd /home/gtrujillop/Documents/development/ruby/dentalzon'
 alias deployer='cd /home/gtrujillop/Documents/development/ruby/deployer'
+
+alias yareapi='cd /home/gtrujillop/Documents/development/ruby/yare_api'
