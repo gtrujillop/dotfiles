@@ -24,3 +24,4 @@ export LANGUAGE="en"
 export LC_ALL="en_US.UTF-8"
 export PATH="$PATH:~/.rvm/bin" 
 export NVM_DIR="/home/$USER/.nvm"
+export MKL_THREADING_LAYER=GNU
